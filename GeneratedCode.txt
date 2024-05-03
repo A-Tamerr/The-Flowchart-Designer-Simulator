@@ -1,0 +1,19 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+double Price= 0,Discount= 0;
+cin >> Price;
+if ((Price > 10000 ))
+{
+	Discount = 10;
+} 
+else
+{
+	Discount = 20;
+}
+cout << Discount;
+#include <iostream>
+using namespace std;
+int main()
+{
